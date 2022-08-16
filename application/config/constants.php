@@ -54,7 +54,7 @@ define('PROTOCOL',                             	'smtp');				// mail, sendmail, s
 define('SMTP_HOST',                             'ssl://smtp.googlemail.com');		// your smtp host e.g. smtp.gmail.com
 define('SMTP_PORT',                             465);					// your smtp port e.g. 25, 587
 define('SMTP_USER',                             'rubby.star.sg@gmail.com');		// your smtp user
-define('SMTP_PASS',                             'soksunae');	// your smtp password
+define('SMTP_PASS',                             '****');	// your smtp password
 define('MAIL_PATH',                             '/usr/sbin/sendmail');
 
 define('STRIPE_SECRET_KEY',                     'sk_test_kGOoDloV76g6NqsAmD2dAOo4');
